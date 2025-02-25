@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: scart
+
+mongodb:
+    uri: mongodb://localhost:27017/?minPoolSize=12&maxPoolSize=12&authSource=admin
+    database: scart

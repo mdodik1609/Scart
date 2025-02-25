@@ -1,0 +1,242 @@
+[
+  {
+    "_id": 1,
+    "customerId": 101,
+    "items": [
+      {
+        "productId": 501,
+        "action": "ADD",
+        "price": { "value": 29.99 }
+      },
+      {
+        "productId": 502,
+        "action": "MODIFY",
+        "price": { "recurrences": 12, "value": 9.99 }
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "customerId": 102,
+    "items": [
+      {
+        "productId": 503,
+        "action": "DELETE",
+        "price": { "value": 15.50 }
+      },
+      {
+        "productId": 504,
+        "action": "ADD",
+        "price": { "recurrences": 3, "value": 49.95 }
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "customerId": 103,
+    "items": [
+      {
+        "productId": 505,
+        "action": "ADD",
+        "price": { "value": 10.00 }
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "customerId": 104,
+    "items": [
+      {
+        "productId": 506,
+        "action": "MODIFY",
+        "price": { "recurrences": 1, "value": 75.00 }
+      },
+      {
+        "productId": 507,
+        "action": "DELETE",
+        "price": {"value": 10.00}
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "customerId": 105,
+    "items": [
+      {
+        "productId": 508,
+        "action": "ADD",
+        "price": { "value": 120.00 }
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "customerId": 106,
+    "items": [
+      {
+        "productId": 509,
+        "action": "MODIFY",
+        "price": { "recurrences": 6, "value": 19.99 }
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "customerId": 107,
+    "items": [
+      {
+        "productId": 510,
+        "action": "DELETE",
+        "price": { "value": 5.00 }
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "customerId": 108,
+    "items": [
+      {
+        "productId": 511,
+        "action": "ADD",
+        "price": { "value": 35.50 }
+      },
+      {
+        "productId": 512,
+        "action": "MODIFY",
+        "price": {"recurrences": 24, "value": 1.50}
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "customerId": 109,
+    "items": [
+      {
+        "productId": 513,
+        "action": "ADD",
+        "price": { "recurrences": 12, "value": 5.99 }
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "customerId": 110,
+    "items": [
+      {
+        "productId": 514,
+        "action": "DELETE",
+        "price": { "value": 8.00 }
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "customerId": 111,
+    "items": [
+      {
+        "productId": 515,
+        "action": "ADD",
+        "price": { "value": 99.99 }
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "customerId": 112,
+    "items": [
+      {
+        "productId": 516,
+        "action": "MODIFY",
+        "price": { "recurrences": 4, "value": 25.00 }
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "customerId": 113,
+    "items": [
+      {
+        "productId": 517,
+        "action": "DELETE",
+        "price": { "value": 12.50 }
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "customerId": 114,
+    "items": [
+      {
+        "productId": 518,
+        "action": "ADD",
+        "price": { "recurrences": 1, "value": 60.00 }
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "customerId": 115,
+    "items": [
+      {
+        "productId": 519,
+        "action": "MODIFY",
+        "price": { "value": 45.00 }
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "customerId": 116,
+    "items": [
+      {
+        "productId": 520,
+        "action": "DELETE",
+        "price": { "recurrences": 2, "value": 30.00 }
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "customerId": 117,
+    "items": [
+      {
+        "productId": 521,
+        "action": "ADD",
+        "price": { "value": 18.00 }
+      }
+    ]
+  },
+  {
+    "_id": 18,
+    "customerId": 118,
+    "items": [
+      {
+        "productId": 522,
+        "action": "MODIFY",
+        "price": { "recurrences": 18, "value": 7.50 }
+      }
+    ]
+  },
+  {
+    "_id": 19,
+    "customerId": 119,
+    "items": [
+      {
+        "productId": 523,
+        "action": "DELETE",
+        "price": { "value": 22.00 }
+      }
+    ]
+  },
+  {
+    "_id": 20,
+    "customerId": 120,
+    "items": [
+      {
+        "productId": 524,
+        "action": "ADD",
+        "price": { "value": 88.00 }
+      }
+    ]
+  }
+]
